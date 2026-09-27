@@ -1,0 +1,6 @@
+{
+  "name": "AuraSpa - Spa & Wellness Management SaaS",
+  "description": "Comprehensive standalone Spa & Wellness Management SaaS for mobile and desktop with appointments, POS checkout, staff schedules, client CRM, treatment rooms, and real-time inventory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
